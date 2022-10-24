@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #e8e8e8;
+}
+
+#hero {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background-color: #5470e9;
+    border-radius: 50%;
+}
